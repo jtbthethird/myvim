@@ -1,3 +1,33 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-git"]
+	path = bundle/vim-git
+	url = http://github.com/tpope/vim-git.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = http://github.com/tpope/vim-surround.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = http://github.com/scrooloose/nerdtree.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = http://github.com/msanders/snipmate.vim.git
+[submodule "bundle/vim-ragtag"]
+	path = bundle/vim-ragtag
+	url = http://github.com/tpope/vim-ragtag.git
+[submodule "bundle/zen-coding"]
+	path = bundle/zen-coding
+	url = http://github.com/mattn/zencoding-vim.git
+[submodule "bundle/vim-css-color"]
+	path = bundle/vim-css-color
+	url = http://github.com/skammer/vim-css-color.git
+[submodule "bundle/snipmate-django"]
+	path = bundle/snipmate-django
+	url = https://github.com/robhudson/snipmate_for_django.git
+[submodule "bundle/vimango"]
+	path = bundle/vimango
+	url = https://github.com/tuxcanfly/ViMango.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
