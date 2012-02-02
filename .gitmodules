@@ -27,7 +27,10 @@
 	url = https://github.com/robhudson/snipmate_for_django.git
 [submodule "bundle/vimango"]
 	path = bundle/vimango
-	url = https://github.com/tuxcanfly/ViMango.git
+	url = git://github.com/tuxcanfly/ViMango.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = git://github.com/xianlihua/vim-matchit.git
